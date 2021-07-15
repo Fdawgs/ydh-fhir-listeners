@@ -2,6 +2,31 @@
 
 All notable changes to this project will be documented in this file.
 
+## [5.1.0](https://www.github.com/Fdawgs/ydh-fhir-listeners/compare/v5.0.0...v5.1.0) (2021-07-15)
+
+
+### Features
+
+* **medicationstatement:** add note and additionalinstruction key/values ([#221](https://www.github.com/Fdawgs/ydh-fhir-listeners/issues/221)) ([db5b06c](https://www.github.com/Fdawgs/ydh-fhir-listeners/commit/db5b06c006d284e57789c3342fefb3d692742ca9))
+
+
+### Dependencies
+
+* **deps-dev:** bump eslint-plugin-jsdoc from 35.4.0 to 35.4.1 ([d3a6a0e](https://www.github.com/Fdawgs/ydh-fhir-listeners/commit/d3a6a0e595c0892bc94c12fe3a0ebd41827c8073))
+* **deps-dev:** bump prettier from 2.3.1 to 2.3.2 ([a3076d6](https://www.github.com/Fdawgs/ydh-fhir-listeners/commit/a3076d6f801dcfdbcaec258c08e33ddac1b660c9))
+* **deps:** bump actions/setup-node from 2.1.5 to 2.2.0 ([f36e60b](https://www.github.com/Fdawgs/ydh-fhir-listeners/commit/f36e60b3d9fc00660c35230f37f12e1c7f2d633b))
+
+
+### Miscellaneous
+
+* **vscode:** disable redhat telemetry ([08b89e8](https://www.github.com/Fdawgs/ydh-fhir-listeners/commit/08b89e8942274ae68b2c27cb5a7c7c366442c360))
+* **vscode:** remove user space config setting ([b4a6190](https://www.github.com/Fdawgs/ydh-fhir-listeners/commit/b4a619095bea07b6530e524138cebe6132043d00))
+
+
+### Continuous Integration
+
+* **cd:** move perf optimizations and refactoring into same section ([a070746](https://www.github.com/Fdawgs/ydh-fhir-listeners/commit/a0707466507f185b56e8943f1f5a5582083bbb18))
+
 ## [5.0.0](https://www.github.com/Fdawgs/ydh-fhir-listeners/compare/v4.0.1...v5.0.0) (2021-06-25)
 
 
